@@ -1,6 +1,6 @@
 # PDF Query Wizard
 
-Welcome to PDFQueryWizard, a dynamic application powered by Python Streamlit, utilizing Google Gemini for advanced document analysis. This tool empowers you to effortlessly upload and process multiple PDF documents, enabling you to pose questions and receive insightful answers.
+Welcome to PDFQueryWizard, a dynamic application powered by Python Streamlit, utilizing Google Gemini for advanced document analysis. This tool empowers you to effortlessly upload and process multiple PDF documents, enabling you to pose questions and receive insightful answers. ImageInsights app can be accessed [here](https://pdf-query-wizard.streamlit.app/)
 
 
 ---
@@ -84,7 +84,7 @@ Visit `http://localhost:8501` in your web browser to start using PDFQueryWizard 
 
 ## Deployment:
 
-PDFQueryWizard is deployed and accessible. Visit [Your Deployment Link] to experience the tool online.
+PDFQueryWizard is deployed and accessible. Visit https://pdf-query-wizard.streamlit.app/ to experience the tool online.
 
 
 ---
